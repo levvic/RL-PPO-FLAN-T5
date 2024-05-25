@@ -1,0 +1,1 @@
+Using Proximal Policy Optimization (PPO), fine-tune a FLAN-T5 model and reduce the model's toxicity with Meta AI's hate speech reward model. The reward model is a binary classifier that predicts either "not hate" or "hate" for the given text.
